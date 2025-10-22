@@ -1,4 +1,4 @@
-# mmFindLineTool - Line Detection Algorithm
+# Line Caliper Detection Algorithm
 
 ## Overview
 
