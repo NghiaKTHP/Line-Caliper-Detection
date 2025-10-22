@@ -7,6 +7,9 @@ The `mmFindLineTool` is a robust line detection algorithm implemented in C# usin
 ## Features
 
 - **Caliper-Based Edge Detection**: Utilizes multiple calipers along a user-defined line segment to detect edge points with high precision.
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/9990dc5e-2afa-4b29-be3f-86cdd7e2cc06" />
+<img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/1ecb0050-0d0c-4899-a96f-8efb7ca48e19" />
+
 - **Configurable Search Parameters**:
   - **Search Direction**: Supports `LeftToRight`, `RightToLeft`, `TopToBottom`, and `BottomToTop`.
   - **Polarity**: Detects transitions (`DarkToLight`, `LightToDark`, or `Both`).
